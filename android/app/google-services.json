@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "939638027001",
+    "firebase_url": "https://note-book-66be9.firebaseio.com",
+    "project_id": "note-book-66be9",
+    "storage_bucket": "note-book-66be9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939638027001:android:721c2a4bbc5c7adcf9e828",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939638027001-ib9pb15rs69v1arltrjhpdbu91ve1a3u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_app",
+            "certificate_hash": "2e01c02cb6074ac1acd1c43f64ce6d29792c2f5a"
+          }
+        },
+        {
+          "client_id": "939638027001-d59aooan4mftbsjijivo6ggr56bgif71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUESjDHhmvKAKO7UkmS-ao3gZDdDR8iMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939638027001-d59aooan4mftbsjijivo6ggr56bgif71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
